@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/* CSS Document */
+.about{
+	width: 1500px;
+	height: 600px;
+	background-color: #ffffff;
+	text-align: center;
+	margin-top: 40px;
+}
+.about hr{
+	width: 20%;
+}
+h1{
+	font-family: "open-sans";
+	font-weight: bolder;
+	font-size: 48px;
+}
+.right-collumn{
+	float: right;
+	width: 440px;
+	margin-right: 175px;
+	margin-top: 100px;
+	justify-items: center;
+}
+.right-collumn hr{
+	width: 75px;
+	margin-right: 293px;
+	border-color: chartreuse;
+}
+.list{
+	text-align: left;
+	font-size: 16px;
+}
+p{
+	font-size: 18;
+	text-align: center;
+	width: 410px;
+	
+}
